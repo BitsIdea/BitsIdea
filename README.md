@@ -2,7 +2,9 @@
 >Delivering proven business concepts to the blockchain&lt;
 
 Smart Contract Address- 0xf26ef5e0545384b7dcc0f297f2674189586830df
+
 Symbol                - BSDC
+
 Decimal               - 18
 
 BitsIdea Contract ABI
